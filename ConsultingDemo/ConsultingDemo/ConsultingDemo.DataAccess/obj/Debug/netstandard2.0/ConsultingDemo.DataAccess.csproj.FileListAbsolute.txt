@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\obj\Debug\netstandard2.0\ConsultingDemo.DataAccess.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\obj\Debug\netstandard2.0\ConsultingDemo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\obj\Debug\netstandard2.0\ConsultingDemo.DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\obj\Debug\netstandard2.0\ConsultingDemo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\bin\Debug\netstandard2.0\ConsultingDemo.DataAccess.deps.json
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\bin\Debug\netstandard2.0\ConsultingDemo.DataAccess.dll
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\bin\Debug\netstandard2.0\ConsultingDemo.Entities.dll
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\bin\Debug\netstandard2.0\ConsultingDemo.Entities.pdb
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\obj\Debug\netstandard2.0\ConsultingDemo.DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\bin\Debug\netstandard2.0\ConsultingDemo.DataAccess.pdb
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\obj\Debug\netstandard2.0\ConsultingDemo.DataAccess.dll
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.DataAccess\obj\Debug\netstandard2.0\ConsultingDemo.DataAccess.pdb

@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Entities\bin\Debug\netstandard2.0\ConsultingDemo.Entities.deps.json
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Entities\bin\Debug\netstandard2.0\ConsultingDemo.Entities.dll
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Entities\bin\Debug\netstandard2.0\ConsultingDemo.Entities.pdb
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Entities\obj\Debug\netstandard2.0\ConsultingDemo.Entities.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Entities\obj\Debug\netstandard2.0\ConsultingDemo.Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Entities\obj\Debug\netstandard2.0\ConsultingDemo.Entities.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Entities\obj\Debug\netstandard2.0\ConsultingDemo.Entities.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Entities\obj\Debug\netstandard2.0\ConsultingDemo.Entities.dll
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Entities\obj\Debug\netstandard2.0\ConsultingDemo.Entities.pdb
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Entities\obj\Debug\netstandard2.0\ConsultingDemo.Entities.csproj.CoreCompileInputs.cache

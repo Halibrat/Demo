@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\bin\Debug\netstandard2.0\ConsultingDemo.DataAccess.dll
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\bin\Debug\netstandard2.0\ConsultingDemo.Entities.dll
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\bin\Debug\netstandard2.0\ConsultingDemo.Entities.pdb
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\obj\Debug\netstandard2.0\ConsultingDemo.Business.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\obj\Debug\netstandard2.0\ConsultingDemo.Business.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\obj\Debug\netstandard2.0\ConsultingDemo.Business.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\bin\Debug\netstandard2.0\ConsultingDemo.Business.deps.json
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\bin\Debug\netstandard2.0\ConsultingDemo.Business.dll
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\bin\Debug\netstandard2.0\ConsultingDemo.Business.pdb
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\bin\Debug\netstandard2.0\ConsultingDemo.DataAccess.pdb
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\obj\Debug\netstandard2.0\ConsultingDemo.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\obj\Debug\netstandard2.0\ConsultingDemo.Business.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\obj\Debug\netstandard2.0\ConsultingDemo.Business.dll
+C:\Users\Lenovo\Desktop\ConsultingDemo\ConsultingDemo\ConsultingDemo.Business\obj\Debug\netstandard2.0\ConsultingDemo.Business.pdb
