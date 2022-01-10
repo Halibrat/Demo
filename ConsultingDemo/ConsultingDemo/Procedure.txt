@@ -1,0 +1,22 @@
+create function GetRapor(
+	 @Malkodu nvarchar(100)
+	,@BaslangicTarihi int
+	,@BitisTarihi int
+	)
+RETURNS TABLE
+AS
+RETURN
+SELECT 
+	 ROW_NUMBER() over (order by Id desc) AS SiraNo
+	,CASE ISLEMTUR  WHEN 1 THEN 'GIRIS' 
+					WHEN 0 THEN 'ÇIKIÞ' 
+	 END AS IslemTur
+	,STI.EvrakNo AS EvrakNo
+	,CONVERT(VARCHAR(15), CAST(STI.Tarih - 2 AS datetime), 104) AS Tarih
+	,CASE ISLEMTUR  WHEN 1 THEN STI.Miktar ELSE 0 END  AS GirisMiktar
+	,CASE ISLEMTUR  WHEN 0 THEN STI.Miktar ELSE 0 END AS CikisMiktar
+	,'' AS StokMiktar
+
+	 
+FROM [dbo].[STIs] AS STI
+WHERE Tarih between @BaslangicTarihi and @BitisTarihi
